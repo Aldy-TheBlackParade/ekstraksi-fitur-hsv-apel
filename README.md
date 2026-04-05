@@ -49,7 +49,7 @@ Cara Menjalankan
    Nama: Aldy Naufal Rafiansyah
    NIM: (2318107)
 5. Link Terkait
-   Google Colab: [Gogle Colab](https://colab.research.google.com/drive/1VVPivGOAfsdZCYZBNYBW-zNAY-ei_Y_0?usp=sharing)
-   PPT: [PPT](https://docs.google.com/presentation/d/1cr4j9LlJ9ol2_BcuiRk2hMbvOYvK5Wra/edit?usp=sharing&ouid=115081197734973150762&rtpof=true&sd=true)
-   LinkedIn: [LinkedIn](https://www.linkedin.com/posts/aldy-naufal-b26b0a331_ekstraksi-fituur-warna-citra-buah-apel-menggunakan-ugcPost-7446561114089422848-L_I3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOi3c4Bv7p_bgUcr_zHe-VKUHjr-C6JiLM)
+   [Google Colab](https://colab.research.google.com/drive/1VVPivGOAfsdZCYZBNYBW-zNAY-ei_Y_0?usp=sharing)
+   [PPT](https://docs.google.com/presentation/d/1cr4j9LlJ9ol2_BcuiRk2hMbvOYvK5Wra/edit?usp=sharing&ouid=115081197734973150762&rtpof=true&sd=true)
+   [LinkedIn](https://www.linkedin.com/posts/aldy-naufal-b26b0a331_ekstraksi-fituur-warna-citra-buah-apel-menggunakan-ugcPost-7446561114089422848-L_I3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOi3c4Bv7p_bgUcr_zHe-VKUHjr-C6JiLM)
    
